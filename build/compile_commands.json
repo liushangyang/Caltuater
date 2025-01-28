@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/C++Node/Caltuater/build",
+  "command": "D:\\AppCenter\\GCC\\ucrt64\\bin\\g++.exe  @CMakeFiles/Calculator.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Calculator.dir\\main.cpp.obj -c E:\\C++Node\\Caltuater\\main.cpp",
+  "file": "E:/C++Node/Caltuater/main.cpp",
+  "output": "CMakeFiles/Calculator.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/C++Node/Caltuater/build",
+  "command": "D:\\AppCenter\\GCC\\ucrt64\\bin\\g++.exe  @CMakeFiles/Calculator.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Calculator.dir\\src\\add.cpp.obj -c E:\\C++Node\\Caltuater\\src\\add.cpp",
+  "file": "E:/C++Node/Caltuater/src/add.cpp",
+  "output": "CMakeFiles/Calculator.dir/src/add.cpp.obj"
+},
+{
+  "directory": "E:/C++Node/Caltuater/build",
+  "command": "D:\\AppCenter\\GCC\\ucrt64\\bin\\g++.exe  @CMakeFiles/Calculator.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Calculator.dir\\src\\dev.cpp.obj -c E:\\C++Node\\Caltuater\\src\\dev.cpp",
+  "file": "E:/C++Node/Caltuater/src/dev.cpp",
+  "output": "CMakeFiles/Calculator.dir/src/dev.cpp.obj"
+},
+{
+  "directory": "E:/C++Node/Caltuater/build",
+  "command": "D:\\AppCenter\\GCC\\ucrt64\\bin\\g++.exe  @CMakeFiles/Calculator.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Calculator.dir\\src\\tofile.cpp.obj -c E:\\C++Node\\Caltuater\\src\\tofile.cpp",
+  "file": "E:/C++Node/Caltuater/src/tofile.cpp",
+  "output": "CMakeFiles/Calculator.dir/src/tofile.cpp.obj"
+}
+]
